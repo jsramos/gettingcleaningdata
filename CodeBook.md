@@ -2,8 +2,8 @@
 ### Submitted as part of the 'Getting & Cleaning Data' MOOC project
 
 # Variables
-1. experimentSubject - an INTEGER idetifying the subject number in the experiment. Values [1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30]
-2. activityType - a CATEGORICAL (factor) column indicating the type of activity the subject was performing when the measure was taken. Values (levels) ["LAYING" "SITTING" "STANDING" "WALKING" "WALKING_DOWNSTAIRS" "WALKING_UPSTAIRS"]
+1. experimentSubject - an INTEGER idetifying the subject number in the experiment. Values `[1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30]`
+2. activityType - a CATEGORICAL (factor) column indicating the type of activity the subject was performing when the measure was taken. Values (levels) `["LAYING" "SITTING" "STANDING" "WALKING" "WALKING_DOWNSTAIRS" "WALKING_UPSTAIRS"]`
 
 The following 66 variables follow this convention. 
 
