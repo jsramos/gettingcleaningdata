@@ -99,4 +99,4 @@ if (!mean(tidy[tidy$activityType == 'LAYING' & tidy$experimentSubject == 1,3]) =
 }
 
 # Write final tidy dataset. This concludes the project.
-write.table(tidyFinal, file="./tidyFinal.txt")
+write.table(tidyFinal, file="./tidyFinal.txt", row.names = F)
